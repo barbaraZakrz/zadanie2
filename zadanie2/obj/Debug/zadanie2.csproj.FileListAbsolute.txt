@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.g.resources
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\Lenovo\Desktop\zadanie2\zadanie2\obj\Debug\zadanie2.pdb
