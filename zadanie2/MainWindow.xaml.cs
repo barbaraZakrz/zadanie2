@@ -42,14 +42,14 @@ namespace zadanie2
             {
                 struktura.Add(int.Parse(tekstSplit[i]));
             }
-
+            int a = struktura.Count;
             Random rnd = new Random();
-            for(int i = 0; i < struktura.Count - 1; i++)
+            for(int i = 0; i < a - 3; i++)
             {
                 List<double> warstwa = new List<double>();
                 for(int j = 0; j < struktura[i+1]*(struktura[i] + 1); j++)
                 {
-                    warstwa.Add(rnd.NextDouble());
+                    warstwa.Add((rnd.NextDouble()*(struktura[a-1]-struktura[a-2]))+struktura[a-2]);
                 }
                 dane.Add(warstwa);
             }
